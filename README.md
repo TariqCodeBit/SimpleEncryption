@@ -25,7 +25,7 @@ This is a simple encryption and decryption program implemented in C++ that demon
 
 ### code clone
 ~~~~
-git cone https://github.com/TariqCodeBit/SimpleEncryption.git
+git clone https://github.com/TariqCodeBit/SimpleEncryption.git
 ~~~~
 
 
