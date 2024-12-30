@@ -29,12 +29,6 @@ string Decryption(int key, string Dec_ryption) {
 }
 
 
-		
-	 
-		 
-
-		
-
 int main() {
 	const int Encryption_Algorithm = pow(2, 2 * 5 / 4);
 
